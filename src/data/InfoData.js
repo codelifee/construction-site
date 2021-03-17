@@ -18,7 +18,7 @@ export const InfoDataTwo = {
   paragraphOne:
     '정확하고 신속한 작업 중에도 사고를 미연에 방지하기 위해서 모든 수칙을 철저히 지키고 있습니다.',
   paragraphTwo:
-    '작업전 - 안전교육 - 복장점검 - 작업 - 습윤작업 - 포장작업후 등 절차에 맞는 신속한 업무처리에 능숙합니다.',
+    '',
   buttonLabel: 'Contact Us',
   image: ImageTwo,
   reverse: true,
